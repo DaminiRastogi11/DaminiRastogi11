@@ -6,15 +6,15 @@
 
 ## What I Work With
 
-**Languages:** Python · SQL · R · Bash · Java · Bash · PowerQuery
-**Python Packages:** Pandas · Numpy · Seaborn · StatsModels · scikit-learn · TensorFlow · Keras · spaCy · Hugging Face · OpenCV  
-**Data Engineering:**  Azure Data Lake · AWS S3 · SnapLogic · REST APIs · ETL Pipelines · Data Cleaning · Data Modeling
-**Analytics & BI:** Power BI · DAX · Power Apps · Dashboard Design · KPI Reporting · Jupyter/Anaconda · Advanced Excel · Google Analytics
-**Databases & Warehousing:** PostgreSQL · MySQL · Microsoft SQL Server · Snowflake  
-**Cloud Platforms:** Microsoft Azure · AWS · Hybrid Cloud
-**Dev & Automation Tools:** Docker · Git · Workflow Automation
-**Statistical Methods:** Time Series Analysis· A/B Testing · Regression Models · Hypothesis Testing · Statistics · Feature Engineering
-**Machine Learning Algorithms:** Linear Regression · Logistic Regression · Decision Tree · Random Forest · Naive Bayes · KNN · K-means · Clustering · Principle Component Analysis · Boosting · Bagging · Computer Vision · Model Evaluation
+* **Languages:** Python · SQL · R · Bash · Java · Bash · PowerQuery
+* **Python Packages:** Pandas · Numpy · Seaborn · StatsModels · scikit-learn · TensorFlow · Keras · spaCy · Hugging Face · OpenCV  
+* **Data Engineering:** Azure Data Lake · AWS S3 · SnapLogic · REST APIs · ETL Pipelines · Data Cleaning · Data Modeling
+* **Analytics & BI:** Power BI · DAX · Power Apps · Dashboard Design · KPI Reporting · Jupyter/Anaconda · Advanced Excel · Google Analytics
+* **Databases & Warehousing:** PostgreSQL · MySQL · Microsoft SQL Server · Snowflake  
+* **Cloud Platforms:** Microsoft Azure · AWS · Hybrid Cloud
+* **Dev & Automation Tools:** Docker · Git · Workflow Automation
+* **Statistical Methods:** Time Series Analysis· A/B Testing · Regression Models · Hypothesis Testing · Statistics · Feature Engineering
+* **Machine Learning Algorithms:** Linear Regression · Logistic Regression · Decision Tree · Random Forest · Naive Bayes · KNN · K-means · Clustering · Principle Component Analysis · Boosting · Bagging · Computer Vision · Model Evaluation
 
 ---
 
