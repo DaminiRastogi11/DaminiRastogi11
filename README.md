@@ -1,8 +1,6 @@
 # Hi, I'm Damini
 
-**Data Analyst & Data Scientist** · MS Computer Science @ University of Illinois Springfield  
-3+ years building enterprise analytics, ETL pipelines, and ML solutions at **Siemens Healthineers**.  
-I turn messy, multi-source data into dashboards, models, and decisions that actually get used.
+**Data Analyst & Data Scientist** · MS Computer Science @ University of Illinois Springfield 3+ years building enterprise analytics, ETL pipelines, and ML solutions at **Siemens Healthineers**. I turn messy, multi-source data into dashboards, models, and decisions that actually get used.
 
 ---
 
