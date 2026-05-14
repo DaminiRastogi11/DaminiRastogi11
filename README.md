@@ -26,31 +26,6 @@
 > Includes a business summary translating model output into actionable retention recommendations.  
 > `Python` `scikit-learn` `XGBoost` `LIME` `Pandas`
 
-###  [Healthcare KPI Dashboard](https://github.com/DaminiRastogi11/healthcare-kpi-dashboard)
-> End-to-end analytics project — SQL data modeling, Python ETL, and an interactive Streamlit dashboard
-> built on public CMS healthcare data. Tracks cost, readmission, and quality KPIs across regions.  
-> `Python` `SQL` `Streamlit` `Plotly` `Pandas`
-
-###  [Automatic MCQ Generator](https://github.com/DaminiRastogi11/mcq-generator)
-> NLP web app that generates MCQs and Q&A pairs from PDFs, lecture notes, and audio/video files.
-> Built with spaCy and Hugging Face Transformers. Led a 4-person team from design to deployment.  
-> `Python` `spaCy` `Transformers` `Flask` `pdfplumber`
-
-###  [SQL Analytics Portfolio](https://github.com/DaminiRastogi11/sql-analytics-portfolio)
-> Collection of real-world SQL problems solved with advanced techniques — window functions, CTEs,
-> subqueries, performance optimization, and data quality checks. Organized by business domain.  
-> `SQL` `PostgreSQL` `MySQL`
-
-### [Time Series Forecasting](https://github.com/DaminiRastogi11/time-series-forecasting)
-> Forecasting energy consumption trends using Prophet and statsmodels on public datasets.
-> Covers decomposition, stationarity testing, model evaluation (MAE, RMSE), and visual reporting.  
-> `Python` `Prophet` `statsmodels` `Pandas` `Matplotlib`
-
-###  [A/B Test Analysis Framework](https://github.com/DaminiRastogi11/ab-test-analysis)
-> Statistical framework for running and interpreting A/B tests — power analysis, z-tests, chi-square,
-> and a clear business write-up of results. Simulated e-commerce and SaaS scenarios.  
-> `Python` `SciPy` `statsmodels` `Pandas`
-
 ---
 
 ##  Experience Highlights
@@ -64,7 +39,7 @@
 
 ##  Education
 
-- **MS Computer Science** — University of Illinois Springfield *(Expected May 2026)*  
+- **MS Computer Science** — University of Illinois Springfield *(May 2026)*  
 - **PG Diploma in AI** — CDAC Noida *(2021–2022)*  
 - **B.Tech Computer Science** — IKG Punjab Technical University *(2017–2021)*  
 
