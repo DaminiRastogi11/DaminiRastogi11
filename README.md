@@ -20,15 +20,16 @@
 
 ## Few of my Projects
 
+### [Explainable Network Intrusion Detection Using Machine Learning](https://github.com/DaminiRastogi11/Explainable-Network-Intrusion-Detection-Using-Machine-Learning)
+> This project builds a binary network intrusion detection system using supervised machine learning on the CIC-IDS2017 dataset, classifying network flows as either benign or attack traffic with high accuracy and full prediction explainability via LIME
+> Full ML pipeline: EDA → feature engineering → model comparison (Logistic, RF, XGBoost) → LIME explainability.
+> Includes a business summary translating model output into actionable retention recommendations.  
+> `Python` `scikit-learn` `XGBoost` `LIME` `Pandas`
+
 ###  [Healthcare KPI Dashboard](https://github.com/DaminiRastogi11/healthcare-kpi-dashboard)
 > End-to-end analytics project — SQL data modeling, Python ETL, and an interactive Streamlit dashboard
 > built on public CMS healthcare data. Tracks cost, readmission, and quality KPIs across regions.  
 > `Python` `SQL` `Streamlit` `Plotly` `Pandas`
-
-### [Customer Churn Prediction](https://github.com/DaminiRastogi11/churn-prediction)
-> Full ML pipeline: EDA → feature engineering → model comparison (Logistic, RF, XGBoost) → SHAP explainability.
-> Includes a business summary translating model output into actionable retention recommendations.  
-> `Python` `scikit-learn` `XGBoost` `SHAP` `Pandas`
 
 ###  [Automatic MCQ Generator](https://github.com/DaminiRastogi11/mcq-generator)
 > NLP web app that generates MCQs and Q&A pairs from PDFs, lecture notes, and audio/video files.
